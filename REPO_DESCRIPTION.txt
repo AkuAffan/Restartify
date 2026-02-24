@@ -1,0 +1,1 @@
+Timezone-aware Minecraft restart plugin for Paper with Smart Restart, pre-restart safety, countdown UI, and Discord webhook notifications.
