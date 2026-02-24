@@ -1,6 +1,7 @@
 # Restartify
 
 Restartify is a Paper plugin that automates Minecraft server restarts with smart monitoring, configurable countdown UI, and pre-restart safety actions.
+Powered by Affanlabs Studios.
 
 [![Website](https://img.shields.io/badge/Website-Restartify-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://restartify.affanlabs.cloud)
 [![Discord](https://img.shields.io/badge/Discord-Affanlabs-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.affanlabs.cloud)
@@ -62,6 +63,12 @@ Restartify is a Paper plugin that automates Minecraft server restarts with smart
 - Website: https://restartify.affanlabs.cloud
 - Discord: https://discord.affanlabs.cloud
 - Portfolio: https://portfolio.affanlabs.cloud
+
+## Credits
+- Created and maintained by Affanlabs Studios.
+
+## Copyright
+- Copyright (c) 2026 Affanlabs Studios. All rights reserved.
 
 ## Notes
 - Timezone fallback: `UTC` when invalid.

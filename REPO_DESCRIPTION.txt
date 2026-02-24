@@ -1,3 +1,4 @@
 Smart Paper restart plugin for Minecraft with auto schedule, Smart Restart, countdown UI, and pre-restart safety.
 Website: https://restartify.affanlabs.cloud
 Discord: https://discord.affanlabs.cloud
+Powered by Affanlabs Studios.
