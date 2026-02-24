@@ -67,9 +67,6 @@ Powered by Affanlabs Studios.
 ## Credits
 - Created and maintained by Affanlabs Studios.
 
-## Copyright
-- Copyright (c) 2026 Affanlabs Studios. All rights reserved.
-
 ## Notes
 - Timezone fallback: `UTC` when invalid.
 - Invalid auto-restart times are skipped.

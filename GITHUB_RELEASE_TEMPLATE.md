@@ -38,6 +38,3 @@ vX.Y.Z
 ## Credits
 - Created by Affanlabs Studios.
 - Powered by Affanlabs Studios.
-
-## Copyright
-- Copyright (c) 2026 Affanlabs Studios. All rights reserved.
