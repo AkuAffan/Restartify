@@ -1,1 +1,3 @@
-Timezone-aware Minecraft restart plugin for Paper with Smart Restart, pre-restart safety, countdown UI, and Discord webhook notifications.
+Smart Paper restart plugin for Minecraft with auto schedule, Smart Restart, countdown UI, and pre-restart safety.
+Website: https://restartify.affanlabs.cloud
+Discord: https://discord.affanlabs.cloud
